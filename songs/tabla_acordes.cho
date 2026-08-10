@@ -1,7 +1,7 @@
 {chordcolor: red}
+{columns: 2}
 {diagrams: true}
 {papersize: a4}
-{columns: 1}
 {marginleft: 25}
 {marginright: 25}
 {margintop: 30}
@@ -23,6 +23,7 @@
 {define Rem7 base-fret 1 frets x x 0 2 1 1}
 {define Mim base-fret 1 frets 0 2 2 0 0 0}
 {define Mim7 base-fret 1 frets 0 2 0 0 0 0}
+{define Sim base-fret 2 frets x 2 4 4 3 2}
 
 {define Do7 base-fret 1 frets x 3 2 3 1 0}
 {define Re7 base-fret 1 frets x x 0 2 1 2}
@@ -32,6 +33,7 @@
 {define Si7 base-fret 2 frets x 2 1 2 0 2}
 
 {comment: ACORDES MAYORES}
+
 [Do] Do (C)     {diagram: Do}
 [Re] Re (D)     {diagram: Re}
 [Mi] Mi (E)     {diagram: Mi}
@@ -41,16 +43,21 @@
 [Si] Si (B)     {diagram: Si}
 
 {comment: ACORDES MENORES}
+
 [Lam] Lam (Am)      {diagram: Lam}
 [Rem] Rem (Dm)      {diagram: Rem}
 [Mim] Mim (Em)      {diagram: Mim}
+[Sim] Sim (Bm)      {diagram: Sim}
 
+{column_break}
 {comment: ACORDES MENORES CON SÉPTIMA}
+
 [Lam7] Lam7 (Am7)   {diagram: Lam7}
 [Rem7] Rem7 (Dm7)   {diagram: Rem7}
 [Mim7] Mim7 (Em7)   {diagram: Mim7}
 
 {comment: ACORDES DE SÉPTIMA}
+
 [Do7] Do7 (C7)   {diagram: Do7}
 [Re7] Re7 (D7)   {diagram: Re7}
 [Mi7] Mi7 (E7)   {diagram: Mi7}

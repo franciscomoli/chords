@@ -9,9 +9,14 @@ chords_of_songs
  docker images | grep cancionero
 
 ### crear pdf , reemplazar el nombre prueba , por la canción que quieres
+
+en el directorio /songs , se encuentran los archivos .cho que contienen el formato para crear tus cancioneros 
 docker run --rm \
   -v "$PWD/songs:/songs" \
   -v "$PWD/pdf:/pdf" \
   cancionero-chordpro \
   /songs/prueba.cho \
   -o /pdf/prueba.pdf
+
+### open pdf
+open pdf/prueba.pdf
