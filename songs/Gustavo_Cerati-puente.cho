@@ -1,0 +1,45 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: Puente}
+{subtitle: Gutavo Cerati - Bocanada - 1999}
+{capo: 3}
+{comment: ♫ Cejilla en el traste 3 ♫}
+
+{define Re base-fret 1 frets x x 0 2 3 2}
+{define Lam7 base-fret 1 frets x 0 2 0 1 0}
+{define Do base-fret 1 frets x 3 2 0 1 0}
+{define Sol base-fret 1 frets 3 2 0 0 0 3}
+
+[Re]Hoy te busqué,
+[Lam7]en la rima que duerme,
+[Do]en todas las palabras.
+
+[Re]si algo calle es por que entendí
+[Lam7]todo menos la [Do]distancia,
+
+[Re]Desordene átomos tuyos para
+[Lam7]hacerte a[Do]parecer,
+[Sol]un día mas, [Re]un dia mas,
+
+[Do]arriba el sol,
+[Sol]Abajo el reflejo de como
+[Lam7]estalla mi [Do]alma,
+[Re]ya estas aquí y el [Sol]paso que dimos
+es [Lam7]causa y es [Do]efecto,
+[Re]cruza el amor yo [Lam7]cruzare lo dedos,
+
+{column_break}
+
+y [Sol]gracias por venir,
+[Sol]gracias por venir,
+[Sol]gracias por venir,
+[Sol]gracias por venir,
+
+[Do]Adorable puente se a [Sol]creado entre los [Re]dos.
+[Lam7]cruza el amor,
+[Do]cruza el amor por el [Sol]puente,
+[Re]usa el amor, [Lam7]usa el amor
+[Do]como un puen[Sol]te.

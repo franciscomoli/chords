@@ -1,0 +1,59 @@
+{chordcolor: red}
+{diagrams: true}
+{papersize: a4}
+{columns: 1}
+{marginleft: 25}
+{marginright: 25}
+{margintop: 30}
+{marginbottom: 30}
+{title: Tabla de acordes}
+{subtitle: Latinos vs Anglosajones (con gráficos)}
+
+{define Do base-fret 1 frets x 3 2 0 1 0}
+{define Re base-fret 1 frets x x 0 2 3 2}
+{define Mi base-fret 1 frets 0 2 2 1 0 0}
+{define Fa base-fret 1 frets 1 3 3 2 1 1}
+{define Sol base-fret 1 frets 3 2 0 0 0 3}
+{define La base-fret 1 frets x 0 2 2 2 0}
+{define Si base-fret 2 frets x 2 4 4 4 2}
+
+{define Lam base-fret 1 frets x 0 2 2 1 0}
+{define Lam7 base-fret 1 frets x 0 2 0 1 0}
+{define Rem base-fret 1 frets x x 0 2 3 1}
+{define Rem7 base-fret 1 frets x x 0 2 1 1}
+{define Mim base-fret 1 frets 0 2 2 0 0 0}
+{define Mim7 base-fret 1 frets 0 2 0 0 0 0}
+
+{define Do7 base-fret 1 frets x 3 2 3 1 0}
+{define Re7 base-fret 1 frets x x 0 2 1 2}
+{define Mi7 base-fret 1 frets 0 2 0 1 0 0}
+{define Sol7 base-fret 1 frets 3 2 0 0 0 1}
+{define La7 base-fret 1 frets x 0 2 0 2 0}
+{define Si7 base-fret 2 frets x 2 1 2 0 2}
+
+{comment: ACORDES MAYORES}
+[Do] Do (C)     {diagram: Do}
+[Re] Re (D)     {diagram: Re}
+[Mi] Mi (E)     {diagram: Mi}
+[Fa] Fa (F)     {diagram: Fa}
+[Sol] Sol (G)   {diagram: Sol}
+[La] La (A)     {diagram: La}
+[Si] Si (B)     {diagram: Si}
+
+{comment: ACORDES MENORES}
+[Lam] Lam (Am)      {diagram: Lam}
+[Rem] Rem (Dm)      {diagram: Rem}
+[Mim] Mim (Em)      {diagram: Mim}
+
+{comment: ACORDES MENORES CON SÉPTIMA}
+[Lam7] Lam7 (Am7)   {diagram: Lam7}
+[Rem7] Rem7 (Dm7)   {diagram: Rem7}
+[Mim7] Mim7 (Em7)   {diagram: Mim7}
+
+{comment: ACORDES DE SÉPTIMA}
+[Do7] Do7 (C7)   {diagram: Do7}
+[Re7] Re7 (D7)   {diagram: Re7}
+[Mi7] Mi7 (E7)   {diagram: Mi7}
+[Sol7] Sol7 (G7) {diagram: Sol7}
+[La7] La7 (A7)   {diagram: La7}
+[Si7] Si7 (B7)   {diagram: Si7}
