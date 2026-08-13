@@ -1,6 +1,7 @@
 {chordcolor: red}
 {papersize: a5}
 {pdfscale: 0.72}
+{chordspace: 0}
 {spacing: { lyrics: 1.4 }}
 {columns: 2}
 {title: Puente}
@@ -12,17 +13,22 @@
 {define Lam7 base-fret 1 frets x 0 2 0 1 0}
 {define Do base-fret 1 frets x 3 2 0 1 0}
 {define Sol base-fret 1 frets 3 2 0 0 0 3}
+{define Mim base-fret 1 frets 0 2 2 0 0 0}
+{define Sim7 base-fret 2 frets x 2 4 2 3 2}
+{define Sib base-fret 1 frets x 1 3 3 3 1}
+{define La base-fret 1 frets x 0 2 2 2 0}
+
 
 [Re]Hoy te busqué,
 [Lam7]en la rima que duerme,
 [Do]en todas las palabras.
 
-[Re]si algo calle es por que entendí
-[Lam7]todo menos la [Do]distancia,
+[Re]si algo calle [Lam7]es por que [Do]entendí
+[Re]todo menos [Lam7]la [Do]distancia,
 
-[Re]Desordene átomos tuyos para
-[Lam7]hacerte a[Do]parecer,
-[Sol]un día mas, [Re]un dia mas,
+[Mim]Desor[Do]dene [Sim7]átomos tuyos 
+[Sib]para [La]hacerte [Re]apare[Do]cer,
+[Sol]un [Sim7]día mas, [Mim]un [La]dia mas,
 
 [Do]arriba el sol,
 [Sol]Abajo el reflejo de como

@@ -1,0 +1,66 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: Como Eran Las Cosas}
+{subtitle: Babasónicos}
+{capo: 1}
+
+{define Sol base-fret 1 frets 3 2 0 0 0 3}
+{define Lam base-fret 1 frets x 0 2 2 1 0}
+{define Do base-fret 1 frets x 3 2 0 1 0}
+{define Sim base-fret 1 frets x 2 4 4 3 2}
+{define Fa base-fret 1 frets 1 3 3 2 1 1}
+{define Mim base-fret 1 frets 0 2 2 0 0 0}
+{define Re base-fret 1 frets x x 0 2 3 2}
+
+{comment: Intro}
+[Sol] - [Lam] - [Do] - [Sol] 
+[Sim] - [Lam] - [Do] - [Sol]
+
+[Sol]Creo que es momento [Lam]para otra bomba de humo
+[Do]y batirme en [Sol]retirada
+[Sim]Nuestra sociedad [Lam]me perjudica
+[Fa]Vos no sos una [Sol]chica cualquiera
+
+[Mim]Qué ridículo es que [Lam]pienses
+[Do]Que todo es tuyo [Sol]inclusive yo
+[Sim]Todo eso tuyo [Mim]puede ser
+[Do]Pero esta noche es [Re]para los dos
+
+{comment: Estribillo}
+[Do]Quizás fue en la mañana [Sol]en que vendados los dos
+[Mim]Descubrimos cómo [Lam]eran las cosas
+[Do]Y sin abrir los ojos [Re]nos teletransportamos
+[Mim]A donde desearíamos [Re]estar
+
+[Sol]Entonces deshace el hechizo [Lam]que me obliga a arrastrarme
+[Do]Entre Guinea y [Sol]tus sábanas
+[Sim]Nuestra sociedad no [Lam]ayuda mucho
+[Fa]Mientras la pasas [Sol]bien, yo lucho
+
+{comment: Estribillo}
+[Do]Quizás fue en la mañana [Sol]en que vendados los dos
+[Mim]Descubrimos cómo [Lam]eran las cosas
+[Do]Y sin abrir los ojos [Re]nos teletransportamos
+[Mim]A donde desearíamos [Re]estar
+
+{comment: Intermedio}
+[Sol] - [Lam] - [Do] - [Sol] 
+[Sim] - [Lam] - [Do] - [Sol]
+
+[Do]Pero también lo siento
+[Re]Que solo es un momento
+[Mim]Que todos deberíamos [Re]pasar
+
+{comment: Estribillo Final}
+[Do]Quizás fue en la mañana [Sol]en que vendados los dos
+[Mim]Descubrimos cómo [Lam]eran las cosas
+[Do]Y sin abrir los ojos [Re]nos teletransportamos
+[Mim]A donde desearíamos [Re]estar
+
+{comment: Final}
+[Do] - [Re] (x2)
+[Do] - [Re] - [Sol]

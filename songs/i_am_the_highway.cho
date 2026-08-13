@@ -1,0 +1,79 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: I Am The Highway (Versión Simplificada)}
+{subtitle: Audioslave}
+{time: 6/8}
+
+{c: RASGUEO: ↓ ↓ ↑ ↑ ↑ ↓ (2 abajo, 3 arriba, 1 abajo)}
+{c: Mano suave, marcando el bajo con el pulgar}
+
+{comment: ACORDES BÁSICOS EN NOTACIÓN LATINA}
+{define Sol base-fret 1 frets 3 2 0 0 0 3}
+{define Lam base-fret 1 frets x 0 2 2 1 0}
+{define Do base-fret 1 frets x 3 2 0 1 0}
+{define Fa base-fret 1 frets 1 3 3 2 1 1}
+{define Rem base-fret 1 frets x x 0 2 3 1}
+{define Mi base-fret 1 frets 0 2 2 1 0 0}
+{define Do/Si base-fret 1 frets x 2 0 0 1 0}
+
+{c: INTRO (x2)}
+[Do] [Sol] [Rem] [Lam] 
+[Do] [Sol] [Rem] [Lam] 
+
+{c: VERSO 1}
+[Fa]Pearls and [Do]swine be[Sol]reft of [Lam]me
+[Fa]Long and [Do]weary my [Sol]road has [Lam]been
+[Fa]I was [Do]lost in the [Lam]cities
+[Sol]Alone in the [Do]hills [Lam]
+[Fa]No sorrow [Do]or pity [Lam]
+[Sol]For leav[Do]ing, I [Lam]feel
+
+{c: CORO}
+[Do]I am not your [Sol]rolling [Rem]wheels
+[Lam]I am the [Do/Si]highway
+[Do]I am not your [Sol]carpet [Rem]ride
+[Lam]I am the [Do/Si]sky
+
+{c: VERSO 2}
+[Fa]Friends and [Do]liars [Sol]don't wait for [Lam]me
+[Fa]'Cause I'll get [Do]on all [Sol]by my[Lam]self
+[Fa]I put [Do]millions of [Lam]miles
+[Sol]Under my [Do]heels [Lam]
+[Fa]And still [Do]too close [Lam]
+[Sol]To you, I [Lam]feel [Do/Si]
+
+{c: CORO}
+[Do]I am not your [Sol]rolling [Rem]wheels
+[Lam]I am the [Do/Si]highway
+[Do]I am not your [Sol]carpet [Rem]ride
+[Lam]I am the [Do/Si]sky
+[Do]I am not your [Sol]blowing [Rem]wind
+[Lam]I am the [Do/Si]lightning
+[Do]I am not your [Sol]autumn [Rem]moon
+[Mi]I am the night, the [Mi]night
+
+{c: PUENTE INSTRUMENTAL (x4 veces)}
+[Fa] [Do] [Sol] [Lam] 
+[Fa] [Do] [Sol] [Lam] 
+[Fa] [Do] [Sol] [Lam] 
+[Fa] [Do] [Sol] [Lam] 
+[Do/Si] [Do] 
+
+{c: CORO FINAL}
+[Do]I am not your [Sol]rolling [Rem]wheels
+[Lam]I am the [Do/Si]highway
+[Do]I am not your [Sol]carpet [Rem]ride
+[Lam]I am the [Do/Si]sky
+[Do]I am not your [Sol]blowing [Rem]wind
+[Lam]I am the [Do/Si]lightning
+[Do]I am not your [Sol]autumn [Rem]moon
+[Mi]I am the night, the [Mi]night
+
+{c: OUTRO}
+[Mi] [Lam] 
+[Mi] [Lam] 
+[Lam] (Dejar sonar)

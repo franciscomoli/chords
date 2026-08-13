@@ -1,0 +1,62 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: S.O.S.}
+{subtitle: Falete}
+
+{define: Sol base-fret 0 frets x 2 0 0 0 3}
+{define: Lam base-fret 0 frets x 0 2 2 1 0}
+{define: Rem base-fret 0 frets x x 0 2 3 1}
+{define: Fa base-fret 1 frets 1 3 3 2 1 1}
+{define: Mi base-fret 0 frets 0 2 2 1 0 0}
+
+{comment: Intro / Estribillo (Rasgueo de rumba)}
+[Sol]Ven a borrarme los [Lam]fracasos de mi [Rem]mente
+[Fa]Ven a llenarme de [Mi]caricias diferentes
+[Sol]Ven a sacarme de este [Lam]pozo de amargura
+[Rem]Donde me encuentro [Sol]yo
+
+{comment: (misma progresión de acordes)}
+Y [Sol]dame el agua de tu [Lam]fuente cristalina
+Y [Rem]dame el beso que sin [Mi]darse se adivina
+Que [Sol]estoy sediento de cariño [Lam]sin medida
+"can[Rem]sao" de dar a[Sol]mor
+
+{comment: Estrofa}
+De [Sol]volar siempre bus[Lam]cando la fan[Rem]tasía
+De [Fa]nido en nido, como [Mi]paloma perdía
+Es[Sol]toy cansao de secretos y [Lam]mentiras
+Buscando un gran a[Rem]mor
+Que sea capaz de enamorarme [Sol]cada día
+
+{comment: (misma progresión de acordes)}
+Ve[Sol]lar mi sueño mien[Lam]tras que duerme mi [Rem]Vida
+Mirarme [Fa]siempre con la mirada [Mi]encendía
+i[Sol]gual que miro [Lam]yo
+[Rem]... i[Sol]gual que miro yo
+
+{comment: Estrofa 2}
+[Dame tu mano sin temor a equivocarte
+Si tú me entiendes, yo nunca voy a engañarte
+Dame las cosas que nunca supieron darme
+Te llenaré de amor]
+
+{comment: Estribillo Final}
+Y [Sol]no hagas caso de lo que [Lam]diga la gente
+[Rem]Tienen envidia porque [Mi]yo amo libremente
+Por[Sol]que mi amor es como un [Lam]pájaro silvestre
+[Rem]No se puede en[Sol]jaular
+
+{comment: Outro (repite estrofa)}
+Y [Sol]vuela siempre bus[Lam]cando la fan[Rem]tasía
+De [Fa]nido en nido como [Mi]paloma perdía
+Es[Sol]tá cansao de secretos y [Lam]mentiras
+Buscando un gran a[Rem]mor
+Que sea capaz de enamorarme [Sol]cada día
+Ve[Sol]lar mi sueño mien[Lam]tras que duerme mi [Rem]vida
+Mirarme [Fa]siempre con la mirada [Mi]encendía
+i[Sol]gual que miro [Lam]yo
+[Rem]... i[Sol]gual que miro yo

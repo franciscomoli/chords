@@ -1,0 +1,74 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: Nothing Compares 2 U}
+{subtitle: Chris Cornell (acoustic version)}
+
+
+{define: Do base-fret 0 frets x 3 2 0 1 0}
+{define: Sol base-fret 0 frets 3 2 0 0 0 3}
+{define: Sol/Si base-fret 0 frets x 2 0 0 0 3}
+{define: Lam base-fret 0 frets x 0 2 2 1 0}
+{define: Fa base-fret 1 frets 1 3 3 2 1 1}
+{define: Mi base-fret 0 frets 0 2 2 1 0 0}
+{define: Sib base-fret 1 frets 1 1 3 3 3 1}
+{define: Rem base-fret 0 frets x x 0 2 3 1}
+{define: Fasus4 base-fret 1 frets 1 3 3 3 1 1}
+{define: Mim base-fret 0 frets 0 2 2 0 0 0}
+
+{comment: Intro}
+[Do] [Sol/Si] [Lam] [Do] [Sol] (x2)
+
+{comment: Verse 1}
+[Do]It's been seven hours and [Sol/Si]fifteen [Lam]days
+[Do]Since you took your [Sol]love away
+[Do]I go out every night and [Sol/Si]sleep all [Lam]day
+[Do]Since you took your [Sol]love away
+
+[Do]Since you been gone I can [Sol/Si]do what I [Lam]want
+[Do]I can see who[Sol]ever I choose
+[Do]I can eat my dinner in a [Sol/Si]fancy [Lam]restaurant
+But [Lam]nothing, [Mi]nothing can take away this blues
+
+{comment: Chorus}
+[Sib] [Fa]'Cause nothing compares
+[Sib] [Fa] [Sol]Nothing compares to you
+
+{comment: Verse 2}
+[Do]It's been so lonely [Sol/Si]without you [Lam]here
+[Do]Like a bird with[Sol]out a song
+[Do]Nothing can stop these [Sol/Si]lonely [Lam]tears
+[Do]Tell me, where did I [Fa] [Fasus4] [Fa]go wrong?
+
+[Do]I could put my arms around [Sol/Si]every boy I [Lam]see
+[Do]But they only [Sol]remind me of you
+[Do]I went to the doctor and [Sol/Si]guess what he [Lam]told me
+He said, "boy, you [Mi]better try to have fun
+No matter what you do"
+But he's a fool
+
+{comment: Chorus}
+[Sib] [Fa]'Cause nothing compares
+[Lam] [Sol]Nothing compares to you
+
+{comment: Instrumental / Solo}
+[Do] [Sol/Si] [Lam] [Do] [Sol]
+[Do] [Sol/Si] [Lam] [Mi]
+[Sib] [Fa] [Lam] [Sol] [Mim] [Sol]
+
+{comment: Verse 3}
+[Do]All the flowers that [Sol/Si]you planted, [Lam]mama
+[Do]In your [Sol]backyard
+[Do]All died when you [Sol/Si]went [Lam]away
+[Do]And I know that living [Sol/Si]with me can [Lam]be hard
+[Lam]But I'm willing to [Mi]give it another try
+
+{comment: Final Chorus}
+[Sib] [Fa]'Cause nothing compares
+[Lam] [Sol]Nothing compares to you
+[Sib] [Fa]Nothing compares
+[Lam] [Sol]Nothing compares to you
+[Mim] [Sol]To you
