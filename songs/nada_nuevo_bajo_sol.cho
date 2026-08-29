@@ -1,0 +1,82 @@
+{chordcolor: red}
+{papersize: a5}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: Nada Nuevo Bajo el Sol (Versión Simplificada)}
+{subtitle: Los Bunkers}
+{time: 4/4}
+
+{c: COLOCA LA CEJILLA EN EL SEGUNDO TRASTE}
+{c: RASGUEO: ↓ ↓ ↑ ↑ ↓ (estrofa) / ↓ ↓ ↑↑↓ ↑ (coro)}
+{c: Mano suave, marcando el bajo con el pulgar}
+
+{comment: ACORDES BÁSICOS (CON CEJILLA EN EL 2° TRASTE)}
+{define Sol base-fret 1 frets 3 2 0 0 0 3}
+{define Mim base-fret 1 frets 0 2 2 0 0 0}
+{define Sim base-fret 1 frets x 2 4 4 3 2}
+{define Re base-fret 1 frets x 0 0 2 3 2}
+{define Lam base-fret 1 frets x 0 2 2 1 0}
+{define Do base-fret 1 frets x 3 2 0 1 0}
+{define Fa base-fret 1 frets 1 3 3 2 1 1}
+
+{c: INTRO (x2)}
+[Sol] [Mim] [Sim] 
+[Sol] [Mim] [Sim] 
+
+{c: VERSO 1}
+[Mim]Minutos an[Sim]tes de que den las tres
+[Mim]Igual que a[Sim]yer y antes de ayer
+[Re]Sigo miran[Lam]do al techo una y otra vez
+[Do]Como si no [Sim]tuviera nada más que hacer
+
+[Mim]Yo nunca me [Sim]sentí tan tonto
+[Mim]Al menos nun[Sim]ca como tú
+[Re]No quiero le[Lam]vantar sospechas sobre mí
+[Do]Espero que [Sol]no tengas nada que decir
+
+{c: CORO}
+[Mim]Lo intento [Re]todo para ser
+[Lam]Mejor de lo que fui
+[Do]De lo que fui hasta ayer
+[Mim]No hay nada [Re]nuevo bajo el sol
+[Lam]Ni escombros de un amor
+[Do]Que pueda recoger
+[Sol]No tengo na[Mim]da que escon[Sim]der
+
+{c: VERSO 2}
+[Mim]Algunos ya [Sim]no saben que es amar
+[Mim]Se portan bien [Sim]cuando las tratan mal
+[Re]Se miran al es[Lam]pejo todo el tiempo para ver
+[Do]Las marcas que que[Sim]daron impresas en su piel
+
+{c: CORO}
+[Mim]Lo intento [Re]todo para ser
+[Lam]Mejor de lo que fui
+[Do]De lo que fui hasta ayer
+[Mim]No hay nada [Re]nuevo bajo el sol
+[Lam]Ni escombros de un amor
+[Do]Que pueda recoger
+[Sol]No tengo na[Mim]da que escon[Sim]der
+
+{c: PUENTE}
+[Lam]Si fuera más de frente
+[Fa]O un poco más valiente
+[Mim]No bastaría con [Sim]dejarlo todo así
+[Lam]Rebobinar las horas
+[Fa]No es lo que más me importa
+[Mim]Yo sólo cuento [Re]con que estés aquí
+
+{c: CORO FINAL}
+[Mim]Lo intento [Re]todo para ser
+[Lam]Mejor de lo que fui
+[Do]De lo que fui hasta ayer
+[Mim]No hay nada [Re]nuevo bajo el sol
+[Lam]Ni escombros de un amor
+[Do]Que pueda recoger
+[Sol]No tengo na[Mim]da que escon[Sim]der
+
+{c: FINAL (x2)}
+[Sol] [Mim] [Sim] 
+[Sol] [Mim] [Sim] 

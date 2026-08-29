@@ -20,12 +20,12 @@
 {define La7 base-fret 1 frets x 0 2 0 2 0}
 {define Si7 base-fret 2 frets x 2 1 2 0 2}
 
-{title: Puente}
+{title: acordes}
 
-[Re]Hoy te busqué,
-[Lam7]en la rima que duerme,
-[Do]en todas las palabras.
+[Re]
+[Lam7]
+[Do]
 
-[Sol]Hoy te busqué,
-[Re]en todas partes,
-[Lam7]y no te encontré.
+[Sol]
+[Re]
+[Lam7]

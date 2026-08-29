@@ -5,8 +5,8 @@ chords_of_songs
 
 ### build image
  docker build --no-cache --progress=plain -t cancionero-chordpro .
-### validate 
- docker images | grep cancionero
+### validate image chordpro
+ docker images | grep cancionero-chordpro 
 
 ### crear pdf , reemplazar el nombre prueba , por la canción que quieres
 
