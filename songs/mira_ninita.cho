@@ -1,0 +1,52 @@
+{chordcolor: red}
+{papersize: a6}
+{pdfscale: 0.72}
+{chordspace: 0}
+{spacing: { lyrics: 1.4 }}
+{columns: 2}
+{title: Mira Niñita}
+{subtitle: Los Jaivas (Versión Simplificada Fa - Do - Sol)}
+
+{define: Do base-fret 0 frets x 3 2 0 1 0}
+{define: Sol base-fret 0 frets 3 2 0 0 0 3}
+{define: Fa base-fret 1 frets 1 3 3 2 1 1}
+
+{comment: Intro (solo golpes graves con el pulgar)}
+[Fa] [Do] [Sol] (x2)
+
+{comment: Verso 1}
+[Fa]Mira niñi[Do]ta, te voy a lle[Sol]var
+[Fa]A ver la [Do]luna brillando en el [Sol]mar
+[Fa]Mira hacia el [Do]cielo y olvi[Sol]da
+[Fa]Ese lángui[Do]do te[Sol]mor
+
+{comment: Coro}
+[Fa]Ay, fue perma[Do]nente emo[Sol]ción
+[Fa]Para la [Do]hija de un [Sol]hombre
+[Fa]Con ojos de [Do]cristal
+[Fa]Y papel se[Do]llado en la [Sol]piel
+
+{comment: Instrumental}
+[Fa] [Do] [Sol] (x2)
+
+{comment: Verso 2}
+[Fa]Mira niñi[Do]ta, te voy a lle[Sol]var
+[Fa]A ver la [Do]luna brillando en el [Sol]mar
+[Fa]Mira hacia el [Do]cielo y olvi[Sol]da
+[Fa]Ese lángui[Do]do te[Sol]mor
+
+{comment: Coro}
+[Fa]Ay, fue perma[Do]nente emo[Sol]ción
+[Fa]Para la [Do]hija de un [Sol]hombre
+[Fa]Con ojos de [Do]cristal
+[Fa]Y papel se[Do]llado en la [Sol]piel
+
+{comment: Puente}
+[Fa]Ay, tu pelito y tus [Do]ojos de miel
+[Fa]Pero ya en tu pecho [Do]florecerán colores de a[Sol]mor
+[Fa]Florece[Do]rán, [Sol]tu pelito
+[Fa]Ay, la ternura ten[Do]drás para ti, para [Sol]ti
+
+{comment: Outro}
+[Fa]Florece[Do]rán, [Sol]tu pelito
+[Fa]Pero ya en tu pecho [Do]florecerán colores de a[Sol]mor

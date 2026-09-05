@@ -1,0 +1,20 @@
+{
+    "pdf": {
+      "papersize": [ 298, 421 ],
+      "margintop": 20,
+      "marginbottom": 20,
+      "marginleft": 20,
+      "marginright": 20,
+      "spacing": {
+        "lyrics": 1.0,
+        "chords": 0.8,
+        "title": 1.0
+      },
+      "fonts": {
+        "title": { "size": 10 },
+        "subtitle": { "size": 8 },
+        "lyrics": { "size": 6 },
+        "chord": { "size": 5 }
+      }
+    }
+  }

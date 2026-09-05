@@ -20,3 +20,13 @@ docker run --rm \
 
 ### open pdf
 open pdf/prueba.pdf
+
+docker run --rm \
+  -v "$PWD/songs:/songs" \
+  -v "$PWD/pdf:/pdf" \
+  cancionero-chordpro \
+  /songs/nada_nuevo_bajo_sol.cho \
+  -o /pdf/nada_nuevo_bajo_sol.pdf
+
+
+### usar cel config json

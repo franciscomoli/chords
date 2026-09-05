@@ -1,16 +1,16 @@
 {chordcolor: red}
 {papersize: a5}
-{pdfscale: 0.72}
+{scale: 0.50}
 {chordspace: 0}
-{spacing: { lyrics: 1.4 }}
+{spacing: { lyrics: 1.0, chords: 0.6 }}
 {columns: 2}
+{fontsize: 4}
 {title: Nada Nuevo Bajo el Sol (Versión Simplificada)}
 {subtitle: Los Bunkers}
 {time: 4/4}
 
 {c: COLOCA LA CEJILLA EN EL SEGUNDO TRASTE}
 {c: RASGUEO: ↓ ↓ ↑ ↑ ↓ (estrofa) / ↓ ↓ ↑↑↓ ↑ (coro)}
-{c: Mano suave, marcando el bajo con el pulgar}
 
 {comment: ACORDES BÁSICOS (CON CEJILLA EN EL 2° TRASTE)}
 {define Sol base-fret 1 frets 3 2 0 0 0 3}
